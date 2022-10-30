@@ -56,3 +56,9 @@ b.rojo{
    th.rojo{
     color: red;
    }
+   th.justificar{
+    text-align: justify;
+   }
+   p.medio{
+    text-align:center
+   }
